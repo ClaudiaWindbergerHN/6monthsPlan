@@ -1,2 +1,2 @@
 # 6monthsPlan
-To doo
+To do
